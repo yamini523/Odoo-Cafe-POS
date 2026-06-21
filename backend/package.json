@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "bun",
+  "scripts": {
+    "dev":"vite",
+    "build":"vite build",
+    "preview":"vite preview"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "encore.dev": "^1.57.8",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.8.3"
+  }
+}

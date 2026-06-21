@@ -1,0 +1,1 @@
+{"id": "odoo-cafe-pos-system-vhsi", "lang": "typescript"}
